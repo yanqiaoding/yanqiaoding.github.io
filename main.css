@@ -43,8 +43,8 @@ body {
     padding: 2px 1em 2px 1em;
     width: 12em;
     border: 1px solid #001100;
-    background: #F7F7F7;
-    color: #990000;
+    background: #F5F5F5;
+    color: #000080;
     font-size: 19px;
     font-family: 'BitStream Vera Serif Bold', Georgia, 'Times New Roman', Times, serif;
 }
@@ -90,7 +90,7 @@ body {
 #main {
     border: 1px solid #001100;
     align: center;
-    width: 80%;
+    width: 70%;
     margin-top: 5px;
     margin-left: auto;
     margin-right: auto;
@@ -99,11 +99,10 @@ body {
 }
 
 #top-banner {
-    background: #F7F7F7;
+    background: white;
     padding: 5px;
-    border-bottom: 1px solid #001100;
     font-size: 25px;
-    color: #990000;
+    color: #000080;
     font-family: 'BitStream Vera Serif Bold', Georgia, 'Times New Roman', Times, serif;
     text-align: center;
 }
