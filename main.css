@@ -40,12 +40,9 @@ body {
 }
 
 .boxtitle {
-    padding: 2px 1em 2px 1em;
     width: 12em;
-    border: 1px solid #001100;
-    background: #F5F5F5;
     color: #000080;
-    font-size: 19px;
+    font-size: 20px;
     font-family: 'BitStream Vera Serif Bold', Georgia, 'Times New Roman', Times, serif;
 }
 
@@ -75,9 +72,7 @@ body {
     margin-top: 15px;
     margin-bottom: 15px;
     margin-right: 15px;
-    border-bottom: 1px solid #001100;
     padding: 5px;    
-    line-height: 1.5;
 }
 
 .padding {
